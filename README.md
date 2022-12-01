@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mhkim0908
 - 👀 I’m grad student in Physics
-- 🌱 I’m currently studying Optimized optical pumping for Magnetometry using NV- colour center
+- 🌱 I’m studying Optimized optical pumping for Magnetometry using NV- colour center
 -  And also, I developing Timing control system for neutral atom Quantum computing & experiments 
 
 <!---
