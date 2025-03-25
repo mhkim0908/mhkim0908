@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mhkim0908
-- 👀 I’m grad student in Physics
-- 🌱 I am developing Timing control system for neutral atom Quantum computing & experiments 
+- 👀 I’m grad student in Physics @ KAIST-OQT
+- 🌱 I am developing control framework for neutral atom Quantum processing & experiments 
 
 <!---
 mhkim0908/mhkim0908 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
